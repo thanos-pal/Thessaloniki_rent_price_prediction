@@ -8,6 +8,10 @@ Rent prices in Thessaloniki vary significantly depending on a wide range of prop
 1. **For tenants and buyers**: get an instant, data-driven estimate of whether a listing is fairly priced.
 2. **For landlords and agents**: understand which property attributes drive rent prices the most, informing renovation and investment decisions.
 
+To make the data and model insights accessible to non-technical stakeholders, an interactive Power BI dashboard was developed. The dashboard visualizes geographical rent distributions, property attribute impacts, and market trends across Thessaloniki's neighbourhoods.
+
+![Power BI Dashboard](images/dashboard.png)
+
 The target variable is `price` (monthly rent in euros).
 
 ---
