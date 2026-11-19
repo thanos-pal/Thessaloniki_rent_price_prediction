@@ -137,19 +137,20 @@ Data Collection (Spitogatos scraping)
 ## Project Structure
 
 ```
-├── eda.ipynb                          # Exploratory data analysis
-├── missing_values.ipynb               # Missing value treatment
-├── outliers.ipynb                     # Outlier detection
-├── transforms.ipynb                   # Distribution transformations
-├── feature_eng.ipynb                  # Feature engineering
-├── encode.ipynb                       # Encoding
-├── train_test_split.ipynb             # 80/10/10 split
-├── create_subsets.ipynb               # Define and export 4 feature subsets
-├── train_subset1.ipynb                # Train RF & XGBoost on original features
-├── train_subset2.ipynb                # Train RF & XGBoost on all features
-├── train_subset3.ipynb                # Train RF & XGBoost on uncorrelated features
-├── train_subset4.ipynb                # Train RF & XGBoost on important features
-├── evaluation.ipynb                   # Model comparison & final test evaluation
+├──notebooks
+        ├── eda.ipynb                          # Exploratory data analysis
+        ├── missing_values.ipynb               # Missing value treatment
+        ├── outliers.ipynb                     # Outlier detection
+        ├── transforms.ipynb                   # Distribution transformations
+        ├── feature_eng.ipynb                  # Feature engineering
+        ├── encode.ipynb                       # Encoding
+        ├── train_test_split.ipynb             # 80/10/10 split
+        ├── create_subsets.ipynb               # Define and export 4 feature subsets
+        ├── train_subset1.ipynb                # Train RF & XGBoost on original features
+        ├── train_subset2.ipynb                # Train RF & XGBoost on all features
+        ├── train_subset3.ipynb                # Train RF & XGBoost on uncorrelated features
+        ├── train_subset4.ipynb                # Train RF & XGBoost on important features
+        ├── evaluation.ipynb                   # Model comparison & final test evaluation
 ```
 
 ## Model Results
