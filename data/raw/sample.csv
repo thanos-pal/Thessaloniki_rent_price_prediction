@@ -1,0 +1,5 @@
+﻿listingId,airConditioning,alarm,areaSqm,balcony,bathrooms,closedParkingSpots,elevator,energyClass,fireplace,floor,furnished,garden,hasParking,isNewDevelopment,kitchens,listingType,livingRooms,location,openParkingSpots,petsAllowed,pool,price,pricePerSqm,propertyType,renovationYear,rooms,solarHeater,storage,view,yearBuilt
+20304396,TRUE,FALSE,47,FALSE,1,,TRUE,C,FALSE,7,yes,FALSE,FALSE,FALSE,1,rent,1,Πλατεία Εμπορίου - Ανω Λαδάδικα - Ιστορικό Κέντρο (Κέντρο Θεσσαλονίκης),,,FALSE,600,12.77,apartment,2026,,FALSE,FALSE,TRUE,1975
+19956518,TRUE,FALSE,25,FALSE,1,,TRUE,B,FALSE,8,yes,FALSE,FALSE,FALSE,1,rent,1,Λαδάδικα (Κέντρο Θεσσαλονίκης),,,FALSE,530,21.2,apartment,2023,,FALSE,FALSE,TRUE,1982
+18383741,FALSE,FALSE,60,FALSE,1,,TRUE,D,FALSE,6,no,FALSE,FALSE,FALSE,1,rent,1,Ανάληψη - Μπότσαρη (Ανάληψη - Μπότσαρη - Νέα Παραλία),,,FALSE,510,8.5,apartment,,1,FALSE,FALSE,TRUE,1978
+20242029,TRUE,FALSE,60,FALSE,1,,TRUE,F,FALSE,8,no,FALSE,FALSE,FALSE,1,rent,1,Ανάληψη - Μπότσαρη (Ανάληψη - Μπότσαρη - Νέα Παραλία),,,FALSE,330,5.5,apartment,,1,FALSE,FALSE,TRUE,1978
